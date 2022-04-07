@@ -29,6 +29,8 @@
 #include <osgCal/Material>
 #include <osgCal/MeshParameters>
 
+using namespace cal3d;
+
 namespace osgCal
 {
     /**
