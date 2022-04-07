@@ -27,6 +27,8 @@
 #include <osgCal/Export>
 #include <osgCal/CoreMesh>
 
+using namespace cal3d;
+
 namespace osgCal
 {
     /**
