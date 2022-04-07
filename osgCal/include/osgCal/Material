@@ -26,6 +26,8 @@
 #include <osg/Vec4>
 #include <osgCal/Export>
 
+using namespace cal3d;
+
 namespace osgCal
 {  
     /**
