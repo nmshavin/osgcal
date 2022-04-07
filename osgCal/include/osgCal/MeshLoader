@@ -25,6 +25,8 @@
 #include <osgCal/Export>
 #include <osgCal/MeshData>
 
+using namespace cal3d;
+
 namespace osgCal
 {
     // -- MeshData I/O --
