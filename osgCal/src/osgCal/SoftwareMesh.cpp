@@ -23,6 +23,7 @@
 
 #include <iostream>
 
+using namespace cal3d;
 using namespace osgCal;
 
 SoftwareMesh::SoftwareMesh( ModelData*      _modelData,
