@@ -25,6 +25,8 @@
 #include <osg/PrimitiveSet>
 #include <osg/BoundingBox>
 
+using namespace cal3d;
+
 namespace osgCal
 {
     struct Constants
