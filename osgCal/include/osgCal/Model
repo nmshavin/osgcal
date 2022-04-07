@@ -33,6 +33,8 @@
 #include <osgCal/CoreModel>
 #include <osgCal/Mesh>
 
+using namespace cal3d;
+
 namespace osgCal {
 
     // -- Mesh adding for Model::load --
